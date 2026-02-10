@@ -1,0 +1,220 @@
+/*----------------------------------------------------------------------------
+    Reset
+----------------------------------------------------------------------------*/
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/*------------------------------------------------------------------------------
+   Base
+------------------------------------------------------------------------------*/
+
+/* ===== Numéro 1 ===== */
+body {
+  font-family: "PT Sans", sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 160%;
+}
+
+/*------------------------------------------------------------------------------
+   Mise en page
+------------------------------------------------------------------------------*/
+
+/* ===== Numéro 2 ===== */
+.wrapper {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/*------------------------------------------------------------------------------
+   Modules
+------------------------------------------------------------------------------*/
+
+/* ===== Numéro 3a ===== */
+.header .wrapper {
+}
+
+/* ===== Numéro 3b ===== */
+.logo {
+}
+
+/* ===== Numéro 3c ===== */
+/*
+.menu ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+*/
+
+/* ===== Numéro 3d ===== */
+/*
+.menu a {
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'PT Sans', sans-serif;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+*/
+
+/* ===== Numéro 3e ===== */
+/*
+.menu a:hover {
+    border-top-color: #000;
+    border-right-color: black;
+    border-bottom-color: #000;
+    border-left-color: black;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+}
+*/
+
+/* ===== Numéro 3f ===== */
+/*
+.header {
+    padding-top: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 20px;
+}
+*/
+
+/* ===== Numéro 4a ===== */
+/*
+.hero {
+    background-image: url('../images/hero.jpg');
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+*/
+
+/* ===== Numéro 4b ===== */
+.hero .wrapper {
+}
+
+/* ===== Numéro 4c ===== */
+.hero .contenu {
+}
+
+/* ===== Numéro 4d ===== */
+/*
+.hero h1 {
+    font-weight: 100;
+    font-size: 100px;
+    line-height: 100%;
+
+    font-family: Nunito, sans-serif;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    color: #F2545B;
+}
+*/
+
+/* ===== Numéro 5a ===== */
+/*
+.athletes h2 {
+    font-family: Nunito, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+*/
+
+/* ===== Numéro 5b ===== */
+/*
+.athletes p {
+    margin-right: 0;
+    margin-bottom: 50px;
+    margin-top: 0;
+    margin-left: 0;
+}
+*/
+
+/* ===== Numéro 5c ===== */
+/*
+.athletes {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 0;
+    padding-right: 0;
+}
+*/
+
+/* ===== Numéro 5d ===== */
+.athletes-photos {
+}
+
+/* ===== Numéro 5e ===== */
+.athletes-photos img {
+}
+
+/* ===== Numéro 5f ===== */
+.athlete1 {
+}
+
+/* ===== Numéro 6a ===== */
+.footer {
+}
+
+.footer .wrapper {
+}
+
+/* ===== Numéro 6b ===== */
+/*
+.menu-social {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+*/
+
+/* ===== Numéro 6c ===== */
+
+.menu-social a {
+}
+
+/* ===== Numéro 6d ===== */
+/*
+.menu-social a:hover {
+    background: gray;
+}
+*/
